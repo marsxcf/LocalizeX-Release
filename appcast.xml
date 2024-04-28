@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>LocalizeX</title>
+        <item>
+            <title>Version 1.0</title>
+            <pubDate>Sun, 28 Apr 2024 20:38:21 +0800</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:criticalUpdate/>
+            <description>
+                Bug Fixing
+            </description>
+            <enclosure url="https://github.com/marsxcf/LocalizeX-Release/releases/download/1/LocalizeX.dmg" type="application/octet-stream" sparkle:edSignature="mrGD6Wfcm6gmRTKuWjiFbhYGGR9nPAauCVCQlnHiifyk+YJHcyrEK9TEckhni2FQPLzHmbZcVXeEUmosfmv+Cg==" length="8438586"
+ /> 
+        </item>
+    </channel>
+</rss>

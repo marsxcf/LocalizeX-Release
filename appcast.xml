@@ -12,8 +12,7 @@
             <description>
                 Bug Fixing
             </description>
-            <enclosure url="https://github.com/marsxcf/LocalizeX-Release/releases/download/1/LocalizeX.dmg" type="application/octet-stream" sparkle:edSignature="mrGD6Wfcm6gmRTKuWjiFbhYGGR9nPAauCVCQlnHiifyk+YJHcyrEK9TEckhni2FQPLzHmbZcVXeEUmosfmv+Cg==" length="8438586"
- /> 
+            <enclosure url="https://github.com/marsxcf/LocalizeX-Release/releases/download/1/LocalizeX.dmg" type="application/octet-stream" sparkle:edSignature="mrGD6Wfcm6gmRTKuWjiFbhYGGR9nPAauCVCQlnHiifyk+YJHcyrEK9TEckhni2FQPLzHmbZcVXeEUmosfmv+Cg==" length="8438586"/> 
         </item>
     </channel>
 </rss>

@@ -1,14 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>LocalizeX</title>
-        <item>
-            <title>1.1</title>
-            <pubDate>Mon, 29 Apr 2024 19:20:38 +0800</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marsxcf/LocalizeX-Release/releases/download/test_1.1/LocalizeX.dmg" length="77971232" type="application/octet-stream" sparkle:edSignature="i08isTNEnCrX4UqpT1BRi00bHn/TIby7Q4F+67TKERdTx1TSASekLUWFDYeiVaObV95Wqurco9FdOPmCiz1NAQ=="/>
-        </item>
-    </channel>
+  <channel>
+    <title>LocalizeX</title>
+    <item>
+      <title>1.1</title>
+      <pubDate>Mon, 29 Apr 2024 19:20:38 +0800</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[ <ul> <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li> <li>Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo.</li> <li>Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc.</li> <li>Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium.</li> </ul> ]]></description>
+      <enclosure url="https://github.com/marsxcf/LocalizeX-Release/releases/download/test_1.1/LocalizeX.dmg" length="77971232" type="application/octet-stream" sparkle:edSignature="i08isTNEnCrX4UqpT1BRi00bHn/TIby7Q4F+67TKERdTx1TSASekLUWFDYeiVaObV95Wqurco9FdOPmCiz1NAQ==" />
+    </item>
+  </channel>
 </rss>

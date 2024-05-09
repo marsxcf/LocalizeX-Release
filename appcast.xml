@@ -3,12 +3,12 @@
     <channel>
         <title>LocalizeX</title>
         <item>
-            <title>0.9.2</title>
-            <pubDate>Sat, 04 May 2024 17:33:14 +0800</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.9.2</sparkle:shortVersionString>
+            <title>0.9.3</title>
+            <pubDate>Thu, 09 May 2024 12:44:09 +0800</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/marsxcf/LocalizeX-Release/releases/download/0.9.2_beta/LocalizeX.dmg" length="76852440" type="application/octet-stream" sparkle:edSignature="coNSpYkikMTuEdV9qbEIn4UrJEzHt8lRiQQ4REyRtXDngqbmD6VkU+F0ayRccgzdvFNhPPuuaz/HcJJSd92lBQ=="/>
+            <enclosure url="https://github.com/marsxcf/LocalizeX-Release/releases/download/0.9.3_beta/LocalizeX.dmg" length="76844248" type="application/octet-stream" sparkle:edSignature="RNCkqJXRQyxh8abBiGktEoSit9LIerXMjjHSP8XU/VHVLoVoSXtCLcjZAFHWe0qu1/xAWcLg97woqaVFGtpwDA=="/>
         </item>
     </channel>
 </rss>

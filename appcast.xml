@@ -13,8 +13,8 @@
                 <div>
                     <h3 id='added'>Added</h3>
                     <ul>
-                        <li>Localize App Store Connect In-App Purchases</li>
-                        <li>Localize App Store Connect Subscription</li>
+                        <li>Support localize App Store Connect In-App Purchases</li>
+                        <li>Support localize App Store Connect Subscription</li>
                         <li>Mark a key do not localize</li>
                     </ul>
 

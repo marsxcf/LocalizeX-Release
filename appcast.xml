@@ -8,6 +8,7 @@
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:fullReleaseNotesLink>https://github.com/marsxcf/LocalizeX-Release/releases</sparkle:fullReleaseNotesLink>
             <description><![CDATA[ 
                 <div>
                     <h3 id='added'>Added</h3>

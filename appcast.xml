@@ -3,6 +3,23 @@
     <channel>
         <title>LocalizeX</title>
         <item>
+            <title>0.12.3</title>
+            <pubDate>Mon, 29 Jul 2024 21:06:04 +0800</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.12.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:fullReleaseNotesLink>https://github.com/marsxcf/LocalizeX-Release/releases</sparkle:fullReleaseNotesLink>
+            <description><![CDATA[ 
+                <div>
+                    <h3 id='added'>Added</h3>
+                    <ul>
+                        <li>Using the languages in General / App Information for other localizables on App Store Connect.</li>
+                    </ul>
+                </div>
+            ]]></description>
+            <enclosure url="https://github.com/marsxcf/LocalizeX-Release/releases/download/0.12.3/LocalizeX.0.12.3.dmg" length="22882931" type="application/octet-stream" sparkle:edSignature="mYDpHqfgCeWv7j5yfIHIgvwERVsMJV8wF2+DPj5Cl7UZpe2JzC2MJRz0VzMHRGuxPaODfsnYp4r6zphfr+LbDw=="/>
+        </item>
+        <item>
             <title>0.12.2</title>
             <pubDate>Sun, 28 Jul 2024 18:33:25 +0800</pubDate>
             <sparkle:version>19</sparkle:version>
@@ -36,30 +53,6 @@
                 </div>
             ]]></description>
             <enclosure url="https://github.com/marsxcf/LocalizeX-Release/releases/download/0.12.1/LocalizeX.0.12.1.dmg" length="22877887" type="application/octet-stream" sparkle:edSignature="pvVs0TsNtrXeZyVCsRmvVUGb3YiIWWKKA8HHxZBLirj1wGdEsyPLHJHzr9xJgumjBrY7VEjbGO//MqiPo0WEDw=="/>
-        </item>
-        <item>
-            <title>0.12.0</title>
-            <pubDate>Sat, 27 Jul 2024 22:51:24 +0800</pubDate>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[ 
-                <div>
-                    <h3 id='added'>Added</h3>
-                    <ul>
-                        <li>Support localizing App Store Connect In-App Purchases</li>
-                        <li>Support localizing App Store Connect Subscriptions</li>
-                        <li>Mark a key do not localize</li>
-                    </ul>
-
-                    <h3 id='fixed'>Fixed</h3>
-                    <ul>
-                        <li>Update an empty &#39;whatsNew&#39; to App Store Connect</li>
-                        <li>Sometimes, OpenAI returns a translation not as a string but as an array.</li>
-                    </ul>
-                </div>
-            ]]></description>
-            <enclosure url="https://github.com/marsxcf/LocalizeX-Release/releases/download/0.12.0/LocalizeX.0.12.0.dmg" length="22863215" type="application/octet-stream" sparkle:edSignature="w2lDCZGzjh80xFs23R1rg1VbZl0PBcXXpbHOd9M2FyKmRcNgQLFYOMh7uGKH1OgDwtiwuOLcG7GoWTycstVbBA=="/>
         </item>
     </channel>
 </rss>

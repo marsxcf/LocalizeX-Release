@@ -14,7 +14,7 @@
                     <h3 id='added'>Added</h3>
                     <ul>
                         <li>Support Game Center Localization</li>
-                        <li><When localizing, ensure to limit the number of characters according to the requirements by App Store Connect/li>
+                        <li><Limit the number of characters according to the requirements by App Store Connect/li>
                         <li>Copy & Paste rows</li>
                     </ul>
                     <h3 id='fixed'>Fixed</h3>

@@ -3,6 +3,23 @@
     <channel>
         <title>LocalizeX</title>
         <item>
+            <title>0.13.1</title>
+            <pubDate>Sun, 22 Sep 2024 10:05:16 +0800</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:fullReleaseNotesLink>https://github.com/marsxcf/LocalizeX-Release/releases</sparkle:fullReleaseNotesLink>
+            <description><![CDATA[ 
+                <div>
+                    <h3 id='added'>Added</h3>
+                    <ul>
+                        <li>Output the log to ~/Library/Logs/LocalizeX/info.log</li>
+                    </ul>
+                </div>
+            ]]></description>
+            <enclosure url="https://github.com/marsxcf/LocalizeX-Release/releases/download/0.13.1/LocalizeX.0.13.1.dmg" length="20060214" type="application/octet-stream" sparkle:edSignature="4AXmyyEaXTDgEXEhXu8IFP2NAQmoxkHYacfDbw7chCwKQUNaAUckdV3SDwiQxDlYY7yNRckjfQaLqMcKjVRrAg=="/>
+        </item>
+        <item>
             <title>0.13.0</title>
             <pubDate>Sun, 18 Aug 2024 11:21:22 +0800</pubDate>
             <sparkle:version>21</sparkle:version>
@@ -14,7 +31,7 @@
                     <h3 id='added'>Added</h3>
                     <ul>
                         <li>Support Game Center Localization</li>
-                        <li>When localizing, ensure to limit the number of characters according to the requirements by App Store Connect</li>
+                        <li><When localizing, ensure to limit the number of characters according to the requirements by App Store Connect</li>
                         <li>Copy & Paste rows</li>
                     </ul>
                     <h3 id='fixed'>Fixed</h3>
@@ -41,24 +58,6 @@
                 </div>
             ]]></description>
             <enclosure url="https://github.com/marsxcf/LocalizeX-Release/releases/download/0.12.3/LocalizeX.0.12.3.dmg" length="22882931" type="application/octet-stream" sparkle:edSignature="mYDpHqfgCeWv7j5yfIHIgvwERVsMJV8wF2+DPj5Cl7UZpe2JzC2MJRz0VzMHRGuxPaODfsnYp4r6zphfr+LbDw=="/>
-        </item>
-        <item>
-            <title>0.12.2</title>
-            <pubDate>Sun, 28 Jul 2024 18:33:25 +0800</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>0.12.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:fullReleaseNotesLink>https://github.com/marsxcf/LocalizeX-Release/releases</sparkle:fullReleaseNotesLink>
-            <description><![CDATA[ 
-                <div>
-                    <h3 id='added'>Added</h3>
-                    <ul>
-                        <li>Add all languages at once.</li>
-                        <li>When clicking the dock icon, reopen the window.</li>
-                    </ul>
-                </div>
-            ]]></description>
-            <enclosure url="https://github.com/marsxcf/LocalizeX-Release/releases/download/0.12.2/LocalizeX.0.12.2.dmg" length="22877731" type="application/octet-stream" sparkle:edSignature="kscTLD2SRhL53ol1w46kDs54XjyHC98OHAPXufO0MPzEGlHvtsBAjLwHE4L3IgvYBiqS70Y7RbcHJqky8Z1vDA=="/>
         </item>
     </channel>
 </rss>
